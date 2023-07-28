@@ -457,3 +457,5 @@ oc create route edge grafana-route --service=grafana --namespace=infra-amqbroker
 9 - Acessando
 
 Usuário e senha: admin/admin
+
+10 - Importar o dashboard disponível em: *grafana/dashboard-artemis.json*
